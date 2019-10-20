@@ -1,13 +1,13 @@
 {
-  "main.css": "/Postbook/static/css/main.3b8950a1.chunk.css",
-  "main.js": "/Postbook/static/js/main.1cf7d1bd.chunk.js",
-  "main.js.map": "/Postbook/static/js/main.1cf7d1bd.chunk.js.map",
+  "main.css": "/Postbook/static/css/main.4bf12d68.chunk.css",
+  "main.js": "/Postbook/static/js/main.2f797188.chunk.js",
+  "main.js.map": "/Postbook/static/js/main.2f797188.chunk.js.map",
   "static/js/1.00f110ea.chunk.js": "/Postbook/static/js/1.00f110ea.chunk.js",
   "static/js/1.00f110ea.chunk.js.map": "/Postbook/static/js/1.00f110ea.chunk.js.map",
   "runtime~main.js": "/Postbook/static/js/runtime~main.5f4dfe4d.js",
   "runtime~main.js.map": "/Postbook/static/js/runtime~main.5f4dfe4d.js.map",
-  "static/css/main.3b8950a1.chunk.css.map": "/Postbook/static/css/main.3b8950a1.chunk.css.map",
+  "static/css/main.4bf12d68.chunk.css.map": "/Postbook/static/css/main.4bf12d68.chunk.css.map",
   "index.html": "/Postbook/index.html",
-  "precache-manifest.5f1f1c7af4cacb6c843900cacae1c287.js": "/Postbook/precache-manifest.5f1f1c7af4cacb6c843900cacae1c287.js",
+  "precache-manifest.e9851f337937ebd1810c78b3e1224eb3.js": "/Postbook/precache-manifest.e9851f337937ebd1810c78b3e1224eb3.js",
   "service-worker.js": "/Postbook/service-worker.js"
 }
