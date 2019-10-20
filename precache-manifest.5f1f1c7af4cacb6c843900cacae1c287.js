@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Postbook/static/js/runtime~main.5f4dfe4d.js"
   },
   {
-    "revision": "83557131999b27d135ec",
-    "url": "/Postbook/static/js/main.83557131.chunk.js"
+    "revision": "1cf7d1bdb50f468d2e5b",
+    "url": "/Postbook/static/js/main.1cf7d1bd.chunk.js"
   },
   {
     "revision": "00f110eadd5f59d82dbe",
     "url": "/Postbook/static/js/1.00f110ea.chunk.js"
   },
   {
-    "revision": "83557131999b27d135ec",
+    "revision": "1cf7d1bdb50f468d2e5b",
     "url": "/Postbook/static/css/main.3b8950a1.chunk.css"
   },
   {
-    "revision": "7d84b7233ad958fa0327035f476cba8c",
+    "revision": "973477fd82402bf7ca3cc4f6ac234af8",
     "url": "/Postbook/index.html"
   }
 ];
