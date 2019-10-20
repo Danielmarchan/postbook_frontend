@@ -59,7 +59,7 @@ class App extends Component {
   loginHandler = (event, authData) => {
     event.preventDefault();
     this.setState({ authLoading: true });
-    fetch('http://localhost:8080/auth/login', {
+    fetch('https://postbook-api.herokuapp.com/auth/login', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -80,7 +80,6 @@ class App extends Component {
         return res.json();
       })
       .then(resData => {
-        console.log(resData);
         this.setState({
           isAuth: true,
           token: resData.token,
@@ -109,7 +108,7 @@ class App extends Component {
   signupHandler = (event, authData) => {
     event.preventDefault();
     this.setState({ authLoading: true });
-    fetch('http://localhost:8080/auth/signup', {
+    fetch('https://postbook-api.herokuapp.com/auth/signup', {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json'

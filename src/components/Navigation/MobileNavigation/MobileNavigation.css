@@ -5,12 +5,12 @@
   height: 100vh;
   width: 30rem;
   max-width: 90%;
-  background: white;
+  background: #e9ebee;
   box-shadow: 1px 0 8px rbga(0, 0, 0, 0.26);
   transition: transform 0.3s ease-out;
   transform: translateX(-100%);
   z-index: 200;
-  padding: 3rem 2rem;
+  padding: 35px 25px;
 }
 
 .mobile-nav.open {

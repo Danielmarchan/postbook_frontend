@@ -1,21 +1,23 @@
 .single-post {
-  width: 90%;
-  margin: auto;
-  text-align: center;
-  color: #3b0062;
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    color: #000;
+    background-color: #fff;
+    padding: 0 25px;
+    border: 1px solid #ccc;
 }
 
 .single-post h2 {
   font-size: 1rem;
   color: #464646;
   padding-bottom: 1rem;
-  border-bottom: 2px solid #464646;
+  border-bottom: 1px solid #ccc;
 }
 
 .single-post__image {
   height: 20rem;
   width: 20rem;
-  margin: 1rem auto;
 }
 
 @media (min-width: 768px) {

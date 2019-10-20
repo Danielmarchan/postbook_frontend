@@ -1,7 +1,7 @@
 .button {
   font: inherit;
-  border: 1px solid #3b0062;
-  color: #3b0062;
+  border: 1px solid #4267b2;
+  color: #4267b2;
   background: none;
   padding: 0.5rem 1rem;
   cursor: pointer;
@@ -23,14 +23,13 @@
 
 .button:disabled:hover,
 .button:disabled:active {
-  background: #ccc;
-  color: #888888;
-  border: #ccc;
+  background: #365899;
+  border: #365899;
 }
 
 .button:hover,
 .button:active {
-  background: #3b0062;
+  background: #365899;
   color: white;
 }
 
@@ -40,30 +39,30 @@
 
 .button--flat:hover,
 .button--flat:active {
-  background: rgba(59, 0, 98, 0.3);
-  color: #3b0062;
+  background: rgba(54, 88, 153, .3);
+  color: #4267b2;
 }
 
 .button--raised {
-  background: #3b0062;
+  background: #4267b2;
   color: white;
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.26);
 }
 
 .button--raised:hover,
 .button--raised:active {
-  background: #520288;
+  background: #365899;
 }
 
 .button.button--accent {
-  border-color: #fab83f;
-  color: #fab83f;
+  border-color: #4267b2;
+  color: #4267b2;
 }
 
 .button--accent:hover,
 .button--accent:active {
-  background: #fab83f;
-  color: #3b0062;
+  background: #365899;
+  color: #fff;
 }
 
 .button--flat.button--accent:hover,

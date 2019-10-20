@@ -21,7 +21,7 @@ const navigationItems = props => [
     </li>
   )),
   props.isAuth && (
-    <li className="navigation-item" key="logout">
+    <li className={['navigation-item', props.mobile ? 'mobile' : ''].join(' ')} key="logout">
       <button onClick={props.onLogout}>Logout</button>
     </li>
   )
